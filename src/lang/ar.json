@@ -1,5 +1,5 @@
 {
-  "app.header": "قم بتحرير الملفات وحفظها لإعادة<code>{fileName}</code>  التحميل",
+  "app.header": "قم بتحرير الملفات وحفظها لإعادة<code>{fileName}<\/code>  التحميل",
   "app.content": "تعلم React",
   "app.channel.plug": "يقدم لك البرنامج التعليمي Lokalise"
 }
