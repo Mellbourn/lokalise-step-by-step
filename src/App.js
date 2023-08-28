@@ -39,6 +39,8 @@ function App(props) {
           values={{ blogName: "Lokalise" }}
         />
         <br />
+        <FormattedMessage id="app.new" />
+        <br />
         <FormattedDate
           value={props.date}
           year="numeric"
