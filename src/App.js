@@ -39,7 +39,7 @@ function App(props) {
           values={{ blogName: "Lokalise" }}
         />
         <br />
-        <FormattedMessage id="app.new2" />
+        <FormattedMessage id="app.dogs_are_cute" />
         <br />
         <FormattedDate
           value={props.date}
