@@ -1,5 +1,7 @@
 {
   "app.header": "Modifiez <code> {fileName} <\/code> et enregistrez pour recharger",
   "app.content": "Apprendre React",
-  "app.channel.plug": "Tutoriel présenté par Lokalise"
+  "app.channel.plug": "Tutoriel présenté par Lokalise",
+  "app.new": "Ceci est une nouvelle traduction, ajoutée après coup",
+  "app.new2": "Ceci est une traduction plus récente"
 }
