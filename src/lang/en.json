@@ -3,5 +3,6 @@
   "app.content": "Learn React",
   "app.channel.plug": "Tutorial brought to you by Lokalise",
   "app.new": "This is a new translation, added after the fact",
-  "app.new2": "This is a newer translation"
+  "app.new2": "This is a newer translation",
+  "app.ferrets_are_small": "Ferrets are small"
 }
