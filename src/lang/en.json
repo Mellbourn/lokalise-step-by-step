@@ -4,5 +4,6 @@
   "app.channel.plug": "Tutorial brought to you by Lokalise",
   "app.new": "This is a new translation, added after the fact",
   "app.new2": "This is a newer translation",
-  "app.pets_are_nice": "Pets are nice"
+  "app.pets_are_nice": "Pets are nice",
+  "app.languages_are_fun": "Languages are fun"
 }
